@@ -120,4 +120,10 @@ This project provided hands-on experience in web application security testing an
 
 ---
 
-
+![Scoreboard](screenshots/scoreboard.png)
+![Admin Panel](screenshots/admin.png)
+![FTP](screenshots/ftp.png)
+![XSS](screenshots/xss.png)
+![User Info](screenshots/user-info.png)
+![Error Handling](screenshots/error-handling.png)
+![Home Page](screenshots/homepage.png)
